@@ -1,1 +1,1 @@
-<script>alert('CBRT TESTING')</script>
+alert('CBRT TESTING');
